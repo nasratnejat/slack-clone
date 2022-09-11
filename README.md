@@ -1,5 +1,5 @@
 
-# Live Preview 
+# Live Preview   
 https://slack-clone2-c50c7.web.app/
 
 # Getting Started with Create React App and Redux
